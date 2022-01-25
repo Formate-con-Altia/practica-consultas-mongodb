@@ -38,3 +38,7 @@ Antes de borrar, comprueba tu consula con un find
 - Borra todas las películas cuyo campo 'rating' en la propiedad 'imdb' sea menor de 5. - 1288
 
 Una vez acabada la tarea podeis practicar un poco más con las planteadas en [](https://www.w3resource.com/mongodb-exercises/mongodb-exercise-2.php)[esta página](https://www.w3resource.com/mongodb-exercises/)
+
+# Soluciones
+
+Propuesta de solución de [Adrián Rey](https://gist.github.com/arlomba/2b5ae7c96b6b3425746a71bea69f2d11)
